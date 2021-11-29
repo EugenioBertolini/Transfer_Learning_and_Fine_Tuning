@@ -1,6 +1,6 @@
 # Transfer_Learning_and_Fine_Tuning
 
-In this notebook, similarly to what you can find at this URL (https://www.tensorflow.org/tutorials/images/transfer_learning), you can find an implemented and working algorithm for transfer learning and fine tuning, put together with a for loop that will iterate on many pre-trained model. The history of each model is plotted, and the confusion matrix can be visualized.
+In this notebook, similarly to what you can find at this URL (https://www.tensorflow.org/tutorials/images/transfer_learning), you can find an implemented and working algorithm for transfer learning and fine tuning, put together with a for loop that will iterate on many pre-trained models. The history of each model is plotted, and the confusion matrix can be visualized.
 
 The model was implemented unsing Tensorflow-Keras, in November 2021.
 
