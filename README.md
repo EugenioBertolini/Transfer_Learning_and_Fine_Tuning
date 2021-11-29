@@ -6,4 +6,4 @@ The model was implemented unsing Tensorflow-Keras, in November 2021.
 
 The model was developed in VS_Code, using a GPU Nvidia.
 
-You need to download your own dataset and change the "path" at the beginning of this notebook to make it work. If you don't know which dataset to use, download it from here (https://www.kaggle.com/vipoooool/new-plant-diseases-dataset).
+You need to download your own dataset and change the "path" at the beginning of this notebook to make it work. If you don't know which dataset to use, download the segmented folder from here (https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw).
